@@ -1,0 +1,34 @@
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.deps.json
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.AssemblyReference.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfoInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfo.cs
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CopyComplete
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\refint\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\obj\Debug\net6.0\ref\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.DB.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.DB.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.deps.json
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.DB.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.DB.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.AssemblyReference.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfoInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfo.cs
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CopyComplete
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\refint\CCSANoteApp.Infrastructure.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\ref\CCSANoteApp.Infrastructure.dll

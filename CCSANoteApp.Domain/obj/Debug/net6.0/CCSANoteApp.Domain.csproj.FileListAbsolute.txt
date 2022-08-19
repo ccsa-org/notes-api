@@ -1,0 +1,24 @@
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.deps.json
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.AssemblyReference.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfoInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfo.cs
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.CoreCompileInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\refint\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web\CCSANoteApp.Domain\obj\Debug\net6.0\ref\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.deps.json
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.AssemblyReference.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfoInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfo.cs
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.CoreCompileInputs.cache
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\refint\CCSANoteApp.Domain.dll
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.pdb
+E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\ref\CCSANoteApp.Domain.dll

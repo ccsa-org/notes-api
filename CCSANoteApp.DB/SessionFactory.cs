@@ -34,6 +34,6 @@ namespace CCSANoteApp.DB
             return configuration.BuildSessionFactory();
         }
 
-        private readonly string _connecttionString = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web\\NotesAppDB.mdf;Integrated Security=True;Connect Timeout=30";
+        private readonly string _connecttionString = "Server=itaobong.com;Initial Catalog=notes;Persist Security Info=False;User ID=notes-login;Password=notes-password;Connection Timeout=30;"
     }
 }

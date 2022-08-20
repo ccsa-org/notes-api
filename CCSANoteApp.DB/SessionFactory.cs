@@ -34,6 +34,6 @@ namespace CCSANoteApp.DB
             return configuration.BuildSessionFactory();
         }
 
-        private readonly string _connecttionString = "Server=itaobong.com;Initial Catalog=notes;Persist Security Info=False;User ID=notes-login;Password=notes-password;Connection Timeout=30;"
+        private readonly string _connecttionString = "Server=itaobong.com;Initial Catalog=notes;Persist Security Info=False;User ID=notes-login;Password=notes-password;Connection Timeout=30;";
     }
 }

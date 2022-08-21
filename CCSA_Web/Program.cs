@@ -3,6 +3,7 @@ using CCSANoteApp.DB.Configurations;
 using CCSANoteApp.DB.Repositories;
 using CCSANoteApp.Infrastructure;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.

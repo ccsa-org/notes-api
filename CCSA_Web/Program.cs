@@ -20,6 +20,10 @@ builder.Services.AddScoped<IUserService,UserService>();
 builder.Services.AddScoped<UserRepository>();
 builder.Services.AddScoped<NoteRepository>();
 builder.Services.AddSingleton<SessionFactory>();
+builder.Services.AddCors(p => p.AddPolicy("corspolicy", builder =>
+{
+    builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
+}));
 
 var app = builder.Build();
 
@@ -29,6 +33,8 @@ var app = builder.Build();
     app.UseSwagger();
     app.UseSwaggerUI();
 //}
+
+app.UseCors("corspolicy");
 
 app.UseHttpsRedirection();
 

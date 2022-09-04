@@ -5,6 +5,7 @@ namespace CCSANoteApp.Infrastructure
 {
     public interface IUserService
     {
+        User FetchUserByLogin(string email, string password);
         void CreateUser(string username, string email, string password);
         void CreateUser(User user);
         void UpdateUserName(Guid id, string name);

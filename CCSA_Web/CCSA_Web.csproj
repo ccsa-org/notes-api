@@ -11,6 +11,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CCSANoteApp.Auth\CCSANoteApp.Auth.csproj" />
     <ProjectReference Include="..\CCSANoteApp.DB\CCSANoteApp.DB.csproj" />
     <ProjectReference Include="..\CCSANoteApp.Infrastructure\CCSANoteApp.Infrastructure.csproj" />
   </ItemGroup>

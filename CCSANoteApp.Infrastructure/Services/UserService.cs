@@ -10,9 +10,26 @@ namespace CCSANoteApp.Infrastructure
         {
             _userRepository = userRepository;
         }
-
         
         private readonly UserRepository _userRepository;
+
+        public User FetchUserByLogin(string email, string password)
+            {
+              var profile = GetUserByMail(email);
+               if (profile != null)
+               {
+                    if (profile.Password == password)
+                    {
+                        return profile;
+                    }
+                    else
+                    {
+                        throw new NullReferenceException("Password does not match");
+                    }
+                }
+                throw new NullReferenceException("Invalid User");
+            }
+        
         public void CreateUser(string username, string email, string password)
         {
             _userRepository.Add(new User
@@ -31,6 +48,17 @@ namespace CCSANoteApp.Infrastructure
         public void DeleteUser(Guid id)
         {
             _userRepository.DeleteById(id);
+        }
+
+        User GetUserByMail(string email)
+        {
+
+            var user = _userRepository.GetByEmail(email);
+            if (user == null)
+            {
+                throw new ArgumentException("User not found");
+            }
+            return user;
         }
 
         public FetchUserDto GetUser(Guid userId)
@@ -105,5 +133,7 @@ namespace CCSANoteApp.Infrastructure
                 _userRepository.Update(user);
             }
         }
+
+        
     }
 }

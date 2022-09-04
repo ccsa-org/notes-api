@@ -17,6 +17,7 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<INoteService,NoteService>();
 builder.Services.AddScoped<IUserService,UserService>();
+//builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<UserRepository>();
 builder.Services.AddScoped<NoteRepository>();
 builder.Services.AddSingleton<SessionFactory>();

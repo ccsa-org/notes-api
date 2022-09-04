@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj": {}
+    "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj": {}
   },
   "projects": {
-    "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj": {
+    "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj",
         "projectName": "CCSANoteApp.Domain",
-        "projectPath": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\MURPHY NNAMDI\\.nuget\\packages\\",
-        "outputPath": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Samuel Jaja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\MURPHY NNAMDI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samuel Jaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }

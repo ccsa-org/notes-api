@@ -19,7 +19,7 @@ namespace CCSA_Web.Controllers
             AuthService = authService;
         }
 
-        [HttpGet]
+        [HttpGet("identity")]
         public IActionResult GetUserClaims()
         {
             try
@@ -123,6 +123,7 @@ namespace CCSA_Web.Controllers
 
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult GetUsers()
         {

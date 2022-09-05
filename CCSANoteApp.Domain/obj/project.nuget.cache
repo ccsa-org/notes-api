@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6CGOtjq6XMvoTgTmiGSsMkpwito7rcaITSLI8S52B4Q9vtx6HK8jwgbUQIXIlmsYZyts545RwadnhqfgING4RQ==",
+  "dgSpecHash": "b83cL5wRk+FH+5M789mNuaEmKEiBzmTIKf+QC62aVtsupj/zlEFkaU/3PKOaRHU90cs6H7i4a/1xGXYAzXsw0g==",
   "success": true,
-  "projectFilePath": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

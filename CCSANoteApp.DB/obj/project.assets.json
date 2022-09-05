@@ -5431,19 +5431,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\MURPHY NNAMDI\\.nuget\\packages\\": {}
+    "C:\\Users\\Samuel Jaja\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.DB\\CCSANoteApp.DB.csproj",
+      "projectUniqueName": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.DB\\CCSANoteApp.DB.csproj",
       "projectName": "CCSANoteApp.DB",
-      "projectPath": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.DB\\CCSANoteApp.DB.csproj",
-      "packagesPath": "C:\\Users\\MURPHY NNAMDI\\.nuget\\packages\\",
-      "outputPath": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.DB\\obj\\",
+      "projectPath": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.DB\\CCSANoteApp.DB.csproj",
+      "packagesPath": "C:\\Users\\Samuel Jaja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.DB\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MURPHY NNAMDI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Samuel Jaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5457,8 +5462,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj": {
-              "projectPath": "E:\\Users\\Murphy\\Documents\\Backup\\Documents\\Software Academy\\CCSA_Web - Copy\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj"
+            "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\Samuel Jaja\\Desktop\\AuthTask\\notes-api\\CCSANoteApp.Domain\\CCSANoteApp.Domain.csproj"
             }
           }
         }
@@ -5497,7 +5502,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

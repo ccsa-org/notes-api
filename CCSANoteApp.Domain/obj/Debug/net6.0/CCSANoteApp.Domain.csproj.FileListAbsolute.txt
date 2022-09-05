@@ -22,3 +22,15 @@ E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSA
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\refint\CCSANoteApp.Domain.dll
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.pdb
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Domain\obj\Debug\net6.0\ref\CCSANoteApp.Domain.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.deps.json
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.AssemblyInfo.cs
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\refint\CCSANoteApp.Domain.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Domain\obj\Debug\net6.0\ref\CCSANoteApp.Domain.dll

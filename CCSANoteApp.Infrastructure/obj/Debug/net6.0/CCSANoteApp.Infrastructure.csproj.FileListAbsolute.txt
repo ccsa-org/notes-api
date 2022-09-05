@@ -32,3 +32,20 @@ E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSA
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\refint\CCSANoteApp.Infrastructure.dll
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.Infrastructure\obj\Debug\net6.0\ref\CCSANoteApp.Infrastructure.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.deps.json
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.DB.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.DB.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.AssemblyInfo.cs
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.csproj.CopyComplete
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\refint\CCSANoteApp.Infrastructure.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\CCSANoteApp.Infrastructure.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.Infrastructure\obj\Debug\net6.0\ref\CCSANoteApp.Infrastructure.dll

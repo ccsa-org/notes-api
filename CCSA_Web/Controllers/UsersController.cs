@@ -1,17 +1,92 @@
-﻿using CCSANoteApp.Domain;
+﻿using CCSANoteApp.Auth;
+using CCSANoteApp.Domain;
 using CCSANoteApp.Infrastructure;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CCSA_Web.Controllers
 {
+    [Authorize]
     [ApiController]
     [Route("users")]
     public class UsersController : ControllerBase
     {
         public IUserService UserService { get; }
-        public UsersController(IUserService databaseService)
+        public IAuthService AuthService { get; }
+        public UsersController(IUserService databaseService, IAuthService authService)
         {
             UserService = databaseService;
+            AuthService = authService;
+        }
+
+        [HttpGet("identity")]
+        public IActionResult GetUserClaims()
+        {
+            try
+            {
+                return Ok(AuthService.GetUserIdentity());
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [AllowAnonymous]
+        [HttpPost("refresh-token")]
+        public IActionResult GetUser([FromBody] string refreshToken)
+        {
+
+            try
+            {
+                var model = AuthService.GetTokenModel(refreshToken);
+                if (model != null)
+                {
+                    return Ok(model);
+                }
+                else
+                {
+                    return Unauthorized("Invalid Refresh Token");
+                }
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [AllowAnonymous]
+        [HttpGet("login")]
+        public IActionResult GetUser(string email, string password)
+        {
+
+            try
+            {
+                var model = UserService.FetchUserByLogin(email, password);
+                if (model != null)
+                {
+                    var tokenModel = AuthService.GetTokenModel(new UserIdentityModel
+                    {
+                        Email = email,
+                        Identifier = model.Id.ToString(),
+                        Name = model.Username
+                    });
+                    return Ok(tokenModel);
+                }
+                else
+                {
+                    return BadRequest("Invalid email was entered");
+                }
+            }
+            catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
         }
 
         [HttpPost]
@@ -48,6 +123,7 @@ namespace CCSA_Web.Controllers
 
         }
 
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult GetUsers()
         {

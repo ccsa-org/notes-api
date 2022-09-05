@@ -28,3 +28,18 @@ E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSA
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.DB\obj\Debug\net6.0\refint\CCSANoteApp.DB.dll
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.pdb
 E:\Users\Murphy\Documents\Backup\Documents\Software Academy\CCSA_Web - Copy\CCSANoteApp.DB\obj\Debug\net6.0\ref\CCSANoteApp.DB.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.DB.deps.json
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.DB.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.DB.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.Domain.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\bin\Debug\net6.0\CCSANoteApp.Domain.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.csproj.AssemblyReference.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.AssemblyInfoInputs.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.AssemblyInfo.cs
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.csproj.CoreCompileInputs.cache
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.csproj.CopyComplete
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\refint\CCSANoteApp.DB.dll
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\CCSANoteApp.DB.pdb
+C:\Users\Samuel Jaja\Desktop\AuthTask\notes-api\CCSANoteApp.DB\obj\Debug\net6.0\ref\CCSANoteApp.DB.dll

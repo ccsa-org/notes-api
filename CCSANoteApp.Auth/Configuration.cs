@@ -31,6 +31,11 @@ namespace CCSANoteApp.Auth
                         {
                             ValidateIssuerSigningKey = true,
                             IssuerSigningKey = new SymmetricSecurityKey(encodedKey),
+                            ValidateIssuer = false,
+                            ValidateAudience=false,
+                            ClockSkew=TimeSpan.Zero
+                            
+
                         };
                     }
                 );

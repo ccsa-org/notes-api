@@ -20,7 +20,7 @@ namespace CCSANoteApp.DB.Repositories
         public TokenRepository(SessionFactory sessionFactory) : base(sessionFactory)
         {
         }
-        public TokenData? GetTokenByRefreshToken(string refreshToken)
+        public TokenData? GetTokenByRefreshToken(string refreshToken)       
         {
             var model = _session.Query<TokenData>().FirstOrDefault(x => x.RefreshToken.Equals(refreshToken));
             return model;

@@ -1,3 +1,4 @@
+using CCSANoteApp.Auth;
 using CCSANoteApp.DB;
 using CCSANoteApp.DB.Configurations;
 using CCSANoteApp.DB.Repositories;
@@ -15,12 +16,17 @@ builder.Services.AddSwaggerGen();
 
 //builder.Services.AddSingleton(builder.Configuration.GetSection(nameof(DBConfiguration)).Get<DBConfiguration>());
 
+builder.Services.AddSingleton <IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddHttpContextAccessor();
 builder.Services.AddScoped<INoteService,NoteService>();
 builder.Services.AddScoped<IUserService,UserService>();
-//builder.Services.AddScoped<IAuthService, AuthService>();
+builder.Services.AddScoped<IAuthService, AuthService>();
 builder.Services.AddScoped<UserRepository>();
-builder.Services.AddScoped<NoteRepository>();
+builder.Services.AddScoped<NoteRepository>();   
+builder.Services.AddScoped<TokenRepository>();
 builder.Services.AddSingleton<SessionFactory>();
+CCSANoteApp.Auth.Configuration.SetupAuthentication(builder.Services, builder.Configuration);
+
 builder.Services.AddCors(p => p.AddPolicy("corspolicy", builder =>
 {
     builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();
@@ -38,6 +44,8 @@ var app = builder.Build();
 app.UseCors("corspolicy");
 
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 

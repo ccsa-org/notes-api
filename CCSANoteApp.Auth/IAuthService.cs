@@ -10,5 +10,6 @@ namespace CCSANoteApp.Auth
     {
         TokenModel GetTokenModel(UserIdentityModel model);
         TokenModel GetTokenModel(string refreshToken);
+        UserIdentityModel GetUserIdentity();
     }
 }

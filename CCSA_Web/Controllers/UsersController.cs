@@ -19,17 +19,24 @@ namespace CCSA_Web.Controllers
             AuthService = authService;
         }
 
-        [AllowAnonymous]
-        [HttpGet("refresh-token")]
-        public IActionResult GetUser(string refreshToken)
+        [HttpGet]
+        public IActionResult GetUserClaims()
         {
-            //Refresh-Token Process
-            // -- getUserRequest
-            // -- unauthorizedResponse
-            // -- refreshTokenRequest
-            // -- unauthorizedResonse - RefreshToken Expired || -- newToken
-            // -- getUserRequest with the newToken
-            // -- actual response
+            try
+            {
+                return Ok(AuthService.GetUserIdentity());
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [AllowAnonymous]
+        [HttpPost("refresh-token")]
+        public IActionResult GetUser([FromBody] string refreshToken)
+        {
 
             try
             {
@@ -44,6 +51,10 @@ namespace CCSA_Web.Controllers
                 }
             }
             catch (ArgumentException ex)
+            {
+                return BadRequest(ex.Message);
+            }
+            catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }

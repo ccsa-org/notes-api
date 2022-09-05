@@ -26,6 +26,27 @@ namespace CCSANoteApp.Auth
             secretKey = configuration["AuthSecret"];
             Repository = repository;
         }
+
+        public UserIdentityModel GetUserIdentity()
+        {
+            var user = HttpContextAccessor.HttpContext.User;
+            if (user != null)
+            {
+                return new UserIdentityModel
+                {
+                    Email = user.FindFirst(ClaimTypes.Email).Value,
+                    Name = user.FindFirst(ClaimTypes.Name).Value,
+                    Identifier = user.FindFirst(ClaimTypes.NameIdentifier).Value,
+                };
+
+            }
+            else
+            {
+                throw new Exception("Invalid User");
+            }
+           
+        }
+
         public TokenModel GetTokenModel(UserIdentityModel model)
         {
             var tokenHandler = new JwtSecurityTokenHandler();

@@ -11,7 +11,7 @@ namespace CCSANoteApp.Infrastructure
         void UpdateUserName(Guid id, string name);
         void UpdateUserEmail(Guid id, string email);
         void DeleteUser(Guid id);
-        FetchUserDto GetUser(Guid id);
+        FetchUserDto GetUser(Guid id);      
         List<FetchUserDto> GetUsers();
     }
 }
